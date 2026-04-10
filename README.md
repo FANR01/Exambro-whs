@@ -12,7 +12,7 @@ Mengatasi berbagai masalah di atas serta mencabut beberapa fitur yang terlalu me
 
 "Untuk Resiko di tanggung sendiri!!!"
 Release
-https://github.com/FANR01/Exambro-whs/release
+https://github.com/FANR01/Exambro-whs/releases
 
 Thanks for @berry.epep(tiktok)
 Thanks for Teacher 
